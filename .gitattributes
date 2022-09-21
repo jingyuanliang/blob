@@ -1,1 +1,2 @@
 kubelet filter=lfs diff=lfs merge=lfs -text
+kubelet.gke filter=lfs diff=lfs merge=lfs -text
